@@ -14,3 +14,4 @@ Main repository of O1 team
 ## [Presentation](https://docs.google.com/presentation/d/1tGCETiaD4exugaNlDu54ClsoZvf4k1ZoxUOAMVfY-Fo/edit?usp=sharing)
 ## [Backlog](https://docs.google.com/spreadsheets/d/1irYlW0vZWMn9O8puxm6ESnxCZLef92VWAa7qfLqrlxk/edit?usp=sharing)
 ## [Sprint 1](https://docs.google.com/document/d/14jrS62fYHRyP-mEn5zzHfeenmLjyy6Y_AiPtuE6o2OM/edit?usp=sharing)
+## [Sprint 1 results](https://docs.google.com/presentation/d/1VMcxyEN45ClDFyQ4k6ho6Ebgcq4O3C7RMFDFxM5q2po/edit?usp=sharing)
